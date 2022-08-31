@@ -1,8 +1,7 @@
 #!/bin/bash
-echo "ALX School is so fun!"
+echo "ALX School is so cool!"
 'Trying to merge
-=======
-echo "ALX School School"
+
+echo "ALX School"
 >>>>>>> update_script
-HEAD
 
